@@ -30,7 +30,3 @@ A **sleek, interactive card-matching game** designed to sharpen your memory and 
 
 ---
 
-## 📸 Preview
-
-> Add screenshots 
-
